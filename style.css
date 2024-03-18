@@ -112,7 +112,7 @@ height: 60%;
         }
     }
     #details{
-        display: flex;
+        /* display: flex; */
         gap: 5%;
         padding: 5%;
     }
